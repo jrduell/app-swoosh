@@ -86,10 +86,6 @@
                             <constraint firstItem="XbD-Fe-vk6" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="un2-1M-Jaj"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="bgImg" destination="EjZ-c8-Eag" id="Fgp-aa-c2e"/>
-                        <outlet property="swoosh" destination="obg-cx-naq" id="Iam-Xo-nOI"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
